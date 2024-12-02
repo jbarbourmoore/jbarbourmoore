@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MigrainesInTech
+- 👀 I’m interested in Cybersecurity and Accessibility
+- 🌱 I’m currently learning Swift abd Swift Ui
+- 😄 Pronouns: she / her
