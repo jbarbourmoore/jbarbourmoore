@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MigrainesInTech
-- 👀 I’m interested in Cybersecurity and Accessibility
-- 🌱 I’m currently learning Swift abd Swift Ui
+- 👀 I’m interested in Cybersecurity and Software Accessibility
+- 🌱 I’m currently learning Swift with SwiftUI / SwiftData
 - 😄 Pronouns: she / her
