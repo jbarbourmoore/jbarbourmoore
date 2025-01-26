@@ -1,6 +1,7 @@
 <h3 align="left">Current Projects:</h3>
 <ul align="left">
   <li><strong>Health Tracking Application:</strong> An iOS application designed to keep track of the user's health information built using Swift, SwiftUI and SwiftData. Automated testing using Swift Testing and XCTest.</li>
+  <li><strong>Exercise Tracking Wearable:</strong> A wearable device using Rust designed to track your exercise movements, such as counting reps or sets. Built on a ESP32-S3.</li>
   <li><strong>Portfolio Website:</strong> A website designed to showcase my skills built using HTML, CSS, Bootstrap and JavaScript</li>
 </ul>
 <h3 align="left">Languages and Tools Include:</h3>
